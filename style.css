@@ -1,0 +1,40 @@
+body{
+    font-family: 'Agdasima', sans-serif;
+    background: rgb(98, 133, 64);
+    color:rgb(4, 16, 186);
+}
+
+.header_div{
+    background:rgb(255, 255, 255);
+    color: brown;
+}
+
+.header_div p{
+    color:brown;
+    font-family: 'Agdasima', sans-serif;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+
+}
+
+.name_div button{
+    font-family: 'Agdasima', sans-serif;
+    color:rgb(255, 0, 0);
+    margin-top:30px;
+    width:130px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+
+.copy-right-footer{
+    position:fixed;
+    color:rgb(199, 236, 100);
+    bottom: 0;
+    width: 100%;
+    font-size:20px;
+    background-color: black;
+    line-height:3;
+    text-align:center;
+    text-shadow: 6px 4px 5px rgb(186, 186, 186);
+}
